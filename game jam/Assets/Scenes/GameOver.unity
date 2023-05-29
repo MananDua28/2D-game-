@@ -439,7 +439,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Made by: Metin Batuhan \xD6z\xFCcan & Manan Dua"
+  m_text: "Made by: Metin Batuhan \xD6z\xFCcan and Manan Dua"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e3378f987370bfb4a9710f6dbcebbe0a, type: 2}
   m_sharedMaterial: {fileID: 401716192006372265, guid: e3378f987370bfb4a9710f6dbcebbe0a, type: 2}
